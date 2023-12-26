@@ -26,8 +26,7 @@ src="https://img.shields.io/twitter/follow/MD Mahim?logo=twitter&style=for-the-b
 
 <a href="https://fb.com/mahim717273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahim717273" height="30" width="40" /></a>
 <a href="https://instagram.com/mdmahim007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmahim007" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@mdmahim4339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@mdmahim4339" height="30" width="40" /></a>
-<a href="https://discord.gg/793555982058782770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="793555982058782770" height="30" width="40" /></a>
+
 </p>
 
 
