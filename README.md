@@ -34,8 +34,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahimdev&show_icons=true&locale=en&layout=compact" alt="mahimdev" /></p>
 
 <br/><br/><br/><br/><br/><br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimdev&show_icons=true&locale=en" alt="mahimdev" color="red" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimdev&show_icons=true&locale=en" alt="mahimdev"  /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimdev&" alt="mahimdev" background-color="red" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimdev&" alt="mahimdev"  /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahimdev" alt="mahimdev" /></a> </p>
