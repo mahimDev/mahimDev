@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahim</h1>
+<h1 align="center">Hi 👋, I'm Mahim 😊</h1>
 <h3 align="center">👋 Hey there! I'm Mahim a passionate web developer with a knack for creating seamless and engaging digital experiences. My tech stack includes HTML, CSS, JavaScript, React, Node.js, and MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimdev&label=Profile%20views&color=0e75b6&style=flat" alt="mahimdev" /> </p>
