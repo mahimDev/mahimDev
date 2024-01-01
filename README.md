@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hey there! I'm Mahim a passionate web developer with a knack for creating seamless and engaging digital experiences. My tech stack includes HTML, CSS, JavaScript, React, Node.js, and MongoDB.
 
 * ✉️  You can contact me at [md286667@gmail.com](mailto:md286667@gmail.com)
-* 🧠  I'm learning react
+* 🧠  I'm learning javascript
 * 🤝  I'm open to collaborating on GitHub
 
 <a href="https://www.github.com/mahimDev" target="_blank" rel="noreferrer"><img
