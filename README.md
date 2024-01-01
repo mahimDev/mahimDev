@@ -113,6 +113,6 @@ src="https://img.shields.io/twitter/follow/MD Mahim?logo=twitter&style=for-the-b
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mahimDev/mahimDev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mahimDev/output/snake.svg" alt="Snake animation" />
 
 ###
