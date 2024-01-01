@@ -7,7 +7,7 @@ Hey there! I'm Mahim a passionate web developer with a knack for creating seamle
 * 🧠  I'm learning javascript
 * 🤝  I'm open to collaborating on GitHub
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/nFMnlDJB8pJ82sfnnW/giphy.gif)"  />
+<img align="right" height="150" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
  Skills 
 
 
