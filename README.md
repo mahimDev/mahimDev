@@ -48,4 +48,6 @@ src="https://img.shields.io/twitter/follow/MD Mahim?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/mahimDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="400"  width="850" /></a>
 
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
