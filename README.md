@@ -29,6 +29,7 @@ src="https://img.shields.io/twitter/follow/MD Mahim?logo=twitter&style=for-the-b
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/mahimDev/mahimDev/output/snake.svg" alt="Snake animation" />
 
 ### Socials
 
