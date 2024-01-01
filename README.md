@@ -8,7 +8,7 @@ Hey there! I'm Mahim a passionate web developer with a knack for creating seamle
 * 🤝  I'm open to collaborating on GitHub
 
 <img align="right" height="150" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
- # Skills 
+ Skills 
 
 
 <p align="left">
