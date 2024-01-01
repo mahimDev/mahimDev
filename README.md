@@ -49,5 +49,5 @@ src="https://img.shields.io/twitter/follow/MD Mahim?logo=twitter&style=for-the-b
 
 <a href="https://github.com/mahimDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimDev&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/mahimDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="400"  width="900" /></a>
+<a href="http://www.github.com/mahimDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="400"  width="800" /></a>
 
