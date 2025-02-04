@@ -8,11 +8,11 @@
 <h2 align="center">🚀 About Me</h2>
 
 ###
-<p align="left">Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys creating seamless and engaging digital experiences. I love working with modern web technologies and building applications that make an impact.</p>
+Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys creating seamless and engaging digital experiences. I love working with modern web technologies and building applications that make an impact.
 
 ###
 
-<p align="left">🔭 I’m currently working on React and Full-Stack Projects<br>🌱 I’m learning Next.js and Backend Development<br>💬 Ask me about JavaScript, React, and UI/UX Design<br>📫 How to reach me : md286667@gmail.com<br>⚡ Fun fact: I love building minimal & aesthetic UI designs!</p>
+<p align="left">🔭 I’m currently working on **React** and Full-Stack Projects<br>🌱 I’m learning **Next.js** and Backend Development<br>💬 Ask me about JavaScript, React, and UI/UX Design<br>📫 How to reach me : md286667@gmail.com<br>⚡ Fun fact: I love building minimal & aesthetic UI designs!</p>
 
 ###
 
