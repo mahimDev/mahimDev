@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 ###
 Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys creating seamless and engaging digital experiences. I love working with modern web technologies and building applications that make an impact.
@@ -14,7 +14,7 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 
 <p align="left">🔭 I’m currently working on **React** and Full-Stack Projects<br>🌱 I’m learning **Next.js** and Backend Development<br>💬 Ask me about JavaScript, React, and UI/UX Design<br>📫 How to reach me : md286667@gmail.com<br>⚡ Fun fact: I love building minimal & aesthetic UI designs!</p>
 
-###
+
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -24,11 +24,11 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 </div>
 </a>
 
-###
 
-<h2 align="center">🛠️ Tech Stack</h2>
 
-###
+<h2 align="center"> Tech Stack</h2>
+
+
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
