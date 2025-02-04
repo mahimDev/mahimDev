@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px"> I'm Mahim</h1>
 <div align="center">
-  <img height="450"  src="https://i.ibb.co.com/KcwrLpF8/2.png"  />
+  <img height="450"   src="https://i.ibb.co.com/KcwrLpF8/2.png"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&theme=soft-green&card_width=650&card_height=250" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&theme=soft-green&card_width=690&card_height=250" alt="GitHub Streak">
 </div>
 </a>
 
