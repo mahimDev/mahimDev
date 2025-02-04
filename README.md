@@ -19,7 +19,9 @@
 <h2 align="center">GitHub Stats</h2>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&theme=soft-green" alt="GitHub Streak">
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&theme=soft-green&card_width=650&card_height=200" alt="GitHub Streak">
+</div>
 </a>
 
 ###
