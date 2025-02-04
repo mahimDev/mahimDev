@@ -12,7 +12,7 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 
 ###
 
-🔭 I’m currently working on **React** and Full-Stack Projects<br>🌱 I’m learning **Next.js** and Backend Development<br>💬 Ask me about JavaScript, React, and UI/UX Design<br>📫 How to reach me : md286667@gmail.com<br>⚡ Fun fact: I love building minimal & aesthetic UI designs!<br>🌍 Based in **Faridpur,Dhaka,bangladesh**
+🔭 I’m currently working on **React** and Full-Stack Projects<br>🌱 I’m learning **Next.js** and Backend Development<br>💬 Ask me about JavaScript, React, and UI/UX Design<br>⚡ Fun fact: I love building minimal & aesthetic UI designs!<br>🌍 Based in **Faridpur,Dhaka,bangladesh**<br>📫 How to reach me : md286667@gmail.com
 
 ###
 
