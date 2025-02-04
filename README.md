@@ -22,7 +22,7 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&theme=soft-green&card_width=650&card_height=200" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimDev&theme=soft-green&card_width=650&card_height=250" alt="GitHub Streak">
 </div>
 </a>
 
