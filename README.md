@@ -8,7 +8,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 ###
-<p align="left">Hey there! I’m Mahim, a passionate Frontend Web Developer who enjoys creating seamless and engaging digital experiences. I love working with modern web technologies and building applications that make an impact.</p>
+<p align="left">Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys creating seamless and engaging digital experiences. I love working with modern web technologies and building applications that make an impact.</p>
 
 ###
 
