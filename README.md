@@ -28,7 +28,7 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahimDev&show_icons=true&theme=soft-green" alt="GitHub Stats">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">    <img  alt="mahimDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mahimDev?cardType=level-alternate&theme=dark&preferLogin=false" />  </a>
 </div>
 
 <div align="center">
