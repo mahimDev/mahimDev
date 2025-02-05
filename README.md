@@ -26,6 +26,16 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 </div>
 </a>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahimDev&show_icons=true&theme=soft-green" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimDev&layout=compact&theme=soft-green" alt="Top Languages">
+</div>
+
+
 ###
 
 <h2 align="center"> Tech Stack</h2>
