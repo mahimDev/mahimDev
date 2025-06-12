@@ -26,12 +26,7 @@ Hey there! I’m **Mahim**, a passionate **Frontend Web Developer** who enjoys c
 </div>
 </a>
 
-<div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">    <img  width="400" hight="200" alt="mahimDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mahimDev?cardType=level-alternate&theme=dark&preferLogin=false" />  </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="380" hight="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimDev&layout=compact&theme=dark" alt="Top Languages">
-</a>
-</div>
+
 
 
 
